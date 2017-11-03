@@ -1,5 +1,7 @@
 
 # Created by https://www.gitignore.io/api/macos,python,windows,pycharm
+### Env ###
+env.json
 
 ### macOS ###
 *.DS_Store

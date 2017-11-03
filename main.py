@@ -7,7 +7,7 @@ class MainApp():
     def run(self):
         self.__master.mainloop()
 
-    def __send(self):
+    def __send(self, phone, message):
         pass
 
 if __name__ == "__main__":

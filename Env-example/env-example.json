@@ -1,0 +1,5 @@
+{
+  "account_sid" : "XXXXXXXXXXXXXX",
+  "auth_token" : "XXXXXXXXXXXXXX",
+  "twilio_phone" : "XXXXXXXXXXXXXX"
+}
